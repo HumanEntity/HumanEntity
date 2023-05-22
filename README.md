@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **HumanEntity/HumanEntity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Something about me
+I'm a teenager and I have to got to school.
+I love `Linux`.
+I wish I could meet with Linus Torvalds.
+
+## What am I learning
+I'm learning Rust.
+
+## What am I working on
+I'm working on small project for displaying presentations in terminal built in Rust and it is in alpha stage and it is private for now but it will be public.
+I'm working on it with [@kajko](https://github.com/kajko). He is a tester.
