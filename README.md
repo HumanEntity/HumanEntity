@@ -30,3 +30,5 @@ I'm working on it with [@kajko](https://github.com/kajko). He is a tester.
 ## What software I am using
 I'm using [tmux](https://github.com/tmux/tmux) as terminal multiplexexer, [alacritty](https://github.com/alacritty/alacritty) for terminal and [neovim](https://github.com/neovim/neovim) as editor.
 My [config](https://github.com/HumanEntity/dotfiles)
+
+## My [dotfiles](https://github.com/HumanEntity/HumanEntity)
