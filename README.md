@@ -16,19 +16,21 @@ Here are some ideas to get you started:
 -->
 
 ## Something about me
-I'm a teenager and I have to got to school.
-I love `Linux`.
-I wish I could meet with Linus Torvalds.
+I'm a teenager and I have to go to school.
+I use `Linux`.
 
 ## What am I learning
 I'm learning Rust.
 
 ## What am I working on
-I'm working on small project for displaying presentations in terminal built in Rust and it is in alpha stage and it is private for now but it will be public.
-I'm working on it with [@kajko](https://github.com/kajko). He is a tester.
 
-## What software I am using
-I'm using [tmux](https://github.com/tmux/tmux) as terminal multiplexexer, [alacritty](https://github.com/alacritty/alacritty) for terminal and [neovim](https://github.com/neovim/neovim) as editor.
-My [config](https://github.com/HumanEntity/dotfiles)
+### [`slide-ui`](https://github.com/HumanEntity/slide-ui)
 
-## My [dotfiles](https://github.com/HumanEntity/dotfiles)
+It is a small project for displaying markdown or org as presentations.
+
+### [`denote.nvim`](https://github.com/HumanEntity/denote.nvim)
+
+It is neovim plugin for taking notes.
+
+## What software I use
+I  use [tmux](https://github.com/tmux/tmux) as terminal multiplexer, [alacritty](https://github.com/alacritty/alacritty) for terminal and [neovim](https://github.com/neovim/neovim) as editor. My [dotfiles](https://github.com/HumanEntity/dotfiles).
